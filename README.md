@@ -2,4 +2,6 @@
 ## * CSV
 ## * Numpy
 ## * pandas
+## * Matplotlib
+## * Seaborn
 ---

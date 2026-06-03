@@ -4,6 +4,5 @@
 ## * pandas
 ## * Matplotlib
 ## * Seaborn
-<img width="1366" height="768" alt="Excel - Smart farming" src="https://github.com/user-attachments/assets/00820f6c-1efa-4f15-8f3b-6d31337a9ce2" />
-
+<img width="2048" height="1365" alt="data science" src="https://github.com/user-attachments/assets/f5122489-6dac-44ba-9dd0-3f94828247b1" />
 ---
